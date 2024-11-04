@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "ATAT_project")(type "KiCad")(uri "${KIPRJMOD}/ATAT_project.kicad_sym")(options "")(descr ""))
+  (lib (name "Old_ATAT_project")(type "KiCad")(uri "C:/Users/jcasino2/Downloads/Old_ATAT_project.kicad_sym")(options "")(descr ""))
 )
